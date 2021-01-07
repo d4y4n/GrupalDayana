@@ -6,7 +6,7 @@
 DAYANA GONZALEZ
 
 *******RUTAS DE LOS REPOSITORIOS********
-Aprender a utilizar html, css, js, jquery y git
+https://github.com/d4y4n/GrupalDayana
 
 *******RESUMEN DEL PROYECTO********
 Una empresa de asesorías en prevención de riesgos necesita contar con un sistema de información
